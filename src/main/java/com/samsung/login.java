@@ -1,6 +1,6 @@
-public class java{
-publi  static void main string(string[] args){
-for(int i=0;i>1;i++)
-return i;
-}
-}
+class Simple{  
+        public static void main(String args[]){  
+         System.out.println("Hello Java");  
+        }  
+    }  
+
